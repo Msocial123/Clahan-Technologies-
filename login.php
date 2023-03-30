@@ -25,7 +25,7 @@
                                class="border border-gray-300/50 p-1 rounded focus:outline-none"/>
 
                         <input type="password"
-                               name="password"
+                               name="passwd"
                                placeholder="Password"
                                class="border border-gray-300/50 p-1 rounded focus:outline-none"/>
                     </div>
